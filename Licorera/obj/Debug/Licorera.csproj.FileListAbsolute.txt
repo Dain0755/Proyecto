@@ -1,0 +1,15 @@
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\bin\Debug\Licorera.exe.config
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\bin\Debug\Licorera.exe
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\bin\Debug\Licorera.pdb
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.csproj.AssemblyReference.cache
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.Properties.Resources.resources
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.csproj.GenerateResource.cache
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.csproj.CoreCompileInputs.cache
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.exe
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.pdb
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.Menú.resources
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.FrmLogin.resources
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.NuevoUsuario.resources
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.Productos.resources
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.Proveedores.resources
+C:\Users\57310\Documents\PASCUAL BRAVO\SEMESTRE 3\HERRAMIENTAS DE PROGRAMACION II\Licorera\Licorera\obj\Debug\Licorera.Factura.resources
